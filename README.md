@@ -19,7 +19,7 @@
 
 ## Portfolio
 
-- Visit my portfolio: https://sfs-portfolio.netlify.app/=
+- Visit my portfolio: https://sfs-portfolio.netlify.app
 
 ## Get in Touch
 
