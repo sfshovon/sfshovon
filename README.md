@@ -1,13 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=console&size=24&duration=3000&pause=500&color=15R799&center=true&vCenter=true&width=1000&height=30&lines=Hi+(+👋+)+,+I+am+Shahriar+Ferdous+Shovon.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=console&size=24&duration=3000&pause=500&color=15R799&center=true&vCenter=true&width=1000&height=30&lines=Hi+(+👋+)+,+I+am+Shahriar+Ferdous+Shovon.+A+Software+Engineer)
 
 
 <h3 align="center">A small introduction ✒️</h3>
-<p align="justify">"Drive yourself toward positivity; the outcome will be positive as well," is my personal belief. A CSE graduate who is passionate, hardworking, self-driven, adaptive, and able to work both independently and in a team. Seeking a position where the knowledge obtained will be utilized effectively and advance my professional career.</p>
+<p align="justify">"Drive yourself toward positivity; the outcome will be positive as well," is my personal belief. A CSE graduate who is passionate, hardworking, self-driven, adaptive, and able to work both independently and in a team.</p>
 
 <h3 align="center">About me 🤔</h3>
 <div align="justify">
-  I have a strong background in creating dynamic and responsive user interfaces, focusing on delivering seamless user experiences. My proficiency includes:
-
+Welcome to my GitHub! I'm a dedicated frontend developer with a passion for crafting immersive and user-centric web experiences. Here's a closer look at my key skills:
+  
 - **React.js:** Leveraging the power of React to create reusable UI components and manage state efficiently.
   
 - **Next.js:** Building performant and scalable web applications with the help of the Next.js framework.
