@@ -29,6 +29,7 @@ Welcome to my GitHub! I'm a dedicated frontend developer with a passion for craf
 
 
 ___
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfshovon&show_icons=true&locale=en&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=sfshovon&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sfshovon&theme=vue-dark" width="49.5%" height="10.0%"/> 
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sfshovon&theme=vue" width="100%"/>   -->
